@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "D:/project/CE202-LC-Lab-Manual/Projects/module 3 - Copy/CoolHeatSystem.xst" -ofn "D:/project/CE202-LC-Lab-Manual/Projects/module 3 - Copy/CoolHeatSystem.syr" 
+xst -intstyle ise -ifn "D:/project/CE202-LC-Lab-Manual/Projects/module 3 - Copy/CoolHeatSystem.xst" -ofn "D:/project/CE202-LC-Lab-Manual/Projects/module 3 - Copy/CoolHeatSystem.syr" 
